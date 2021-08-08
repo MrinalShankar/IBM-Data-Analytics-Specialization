@@ -1,2 +1,3 @@
 # IBM Data Analytics Specialization
-Analysis of stock price and revenue of Tesla and Gamestop
+Projects done as part of IBM Data Anlaytics Specialization course
+
